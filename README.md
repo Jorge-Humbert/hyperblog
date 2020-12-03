@@ -9,5 +9,6 @@ Un blog increíble para el curso de [Git y Github](https://git-scm.com/about)
 *Trucos muy locos del profesor
 *Las personalidades múltilpes de Freddy
 *Creado por el increible Humberto Sandoval
+*Incluye ejemplos en Windows, Linuz y Mac
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegasaca NO TE LO TOMES ENSERIO y mejor ponte a estudiar para hacer de tu futuro un lugar mejor.
